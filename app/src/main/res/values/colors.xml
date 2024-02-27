@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="calculator_body">#0089FE</color>
+    <color name="calculator_numbers">#0000FF</color>
+    <color name="calculator_controls">#00008A</color>
+    <color name="calculator_suma">#00FF00</color>
+    <color name="calculator_resta">#00FFFF</color>
+    <color name="calculator_multiplicacion">#FFA800</color>
+    <color name="calculator_division">#8000FF</color>
+</resources>
